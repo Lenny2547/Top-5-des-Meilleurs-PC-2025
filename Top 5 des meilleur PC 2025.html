@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top 5 Meilleurs PC 2025</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f9f9f9; margin: 0; padding: 20px; color: #333; }
+    h1, h2 { color: #222; }
+    .pc-card { background: white; border-radius: 12px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; }
+    .pc-image { flex: 1 1 300px; max-width: 300px; }
+    .pc-image img { width: 100%; border-radius: 8px; }
+    .pc-details { flex: 2 1 400px; }
+    .pc-title { font-size: 1.3em; margin-top: 0; font-weight: bold; }
+    .price { font-weight: bold; color: #2d8f2d; margin-bottom: 10px; }
+    .button { display: inline-block; background: #ff9900; color: white; padding: 10px 15px; border-radius: 8px; text-decoration: none; font-weight: bold; }
+    ul.specs { padding-left: 20px; margin-top: 10px; }
+    ul.specs li::before { content: "✅ "; }
+  </style>
+</head>
+<body>
+  <h1>🔥 Top 5 Meilleurs PC Gamer 2025 🔥</h1>
+  <p>Découvrez notre sélection des meilleurs PC fixes gamers de 2025, alliant performances, design RGB et rapport qualité/prix exceptionnel. Parfait pour le gaming, la création de contenu ou le streaming. 🖥️🎮</p>
+
+  <div class="pc-card">
+    <div class="pc-image">
+      <img src="Sans titre 7.jpg" alt="PC 1">
+    </div>
+    <div class="pc-details">
+      <h2 class="pc-title">🖥️ PC 1 – VIST PC Gaming Ryzen 7 5700X - RAM 32Go - RTX 4060 - SSD 1To M.2 - WiFi - Windows 11 Pro</h2>
+      <p class="price">💶 Prix : 893,90 €</p>
+      <ul class="specs">
+        <li>Marque : VIST</li>
+        <li>Processeur : AMD Ryzen 7 - 3,4 GHz</li>
+        <li>Mémoire vive : 32 Go (max 64 Go)</li>
+        <li>Carte graphique : NVIDIA GeForce RTX 4060 - 8 Go GDDR6</li>
+        <li>Stockage : SSD 1 To (PCIE x4)</li>
+        <li>Résolution max : 2560 x 1440</li>
+        <li>Système d'exploitation : Windows 11 Pro</li>
+        <li>Connectivité : Wi-Fi, USB, Ethernet</li>
+        <li>Ports : HDMI x1, USB 2.0 x2, USB 3.0 x2</li>
+        <li>Dimensions : 37.3 x 21.6 x 44 cm</li>
+        <li>Garantie : 2 ans</li>
+      </ul>
+      <a href="https://amzn.to/3FThETY" class="button" target="_blank" rel="nofollow sponsored">🔗 Voir sur Amazon</a>
+    </div>
+  </div>
+
+  <div class="pc-card">
+    <div class="pc-image">
+      <img src="ujhhb.jpg" alt="PC 2">
+    </div>
+    <div class="pc-details">
+      <h2 class="pc-title">🖥️ PC 2 – Ankermann Business Gaming V3 | Ryzen 5 5500 | RTX 3050 | 16Go RAM | 1To SSD | Windows 11</h2>
+      <p class="price">💶 Prix : 589 €</p>
+      <ul class="specs">
+        <li>Marque : Ankermann-PC</li>
+        <li>Processeur : AMD Ryzen 5 - 4,2 GHz (6 cœurs)</li>
+        <li>Mémoire vive : 16 Go (max 128 Go)</li>
+        <li>Carte graphique : NVIDIA GeForce RTX 3050 - 4 Go VRAM</li>
+        <li>Stockage : SSD 1 To (PCIE x4)</li>
+        <li>Résolution max : 1920 x 1080</li>
+        <li>Système d'exploitation : Windows 11 Pro</li>
+        <li>Connectivité : Wi-Fi, USB, HDMI</li>
+        <li>Ports : HDMI x1, USB 2.0 / 3.0, VGA</li>
+        <li>Dimensions : 45 x 21 x 46 cm</li>
+        <li>Divers : Ventilateurs supplémentaires</li>
+      </ul>
+      <a href="https://amzn.to/43SCF9w" class="button" target="_blank" rel="nofollow sponsored">🔗 Voir sur Amazon</a>
+    </div>
+  </div>
+
+  <div class="pc-card">
+    <div class="pc-image">
+      <img src="df.jpg" alt="PC 3">
+    </div>
+    <div class="pc-details">
+      <h2 class="pc-title">🖥️ PC 3 – STGsivir Gamer RX 580 | Intel i7 | 16Go RAM | SSD 512Go | RGB | WiFi</h2>
+      <p class="price">💶 Prix : 325,77 €</p>
+      <ul class="specs">
+        <li>Marque : STGsivir</li>
+        <li>Processeur : Intel Core i7 - 3,5 GHz (4 cœurs)</li>
+        <li>Mémoire vive : 16 Go</li>
+        <li>Carte graphique : AMD Radeon RX 580 - 8 Go GDDR5</li>
+        <li>Stockage : SSD 512 Go (Serial ATA)</li>
+        <li>Résolution max : 1920 x 1080</li>
+        <li>Système d'exploitation : Windows</li>
+        <li>Connectivité : Bluetooth, Wi-Fi</li>
+        <li>Ports : HDMI x1, USB 2.0 x4</li>
+        <li>Dimensions : 39 x 23 x 45.2 cm</li>
+      </ul>
+      <a href="https://amzn.to/4dYVuww" class="button" target="_blank" rel="nofollow sponsored">🔗 Voir sur Amazon</a>
+    </div>
+  </div>
+
+  <div class="pc-card">
+    <div class="pc-image">
+      <img src="sf.jpg" alt="PC 4">
+    </div>
+    <div class="pc-details">
+      <h2 class="pc-title">🖥️ PC 4 – INFOMAX RTX 4060 | Intel i5 | 16Go RGB | SSD 1To | Watercooling</h2>
+      <p class="price">💶 Prix : 999 €</p>
+      <ul class="specs">
+        <li>Marque : INFOMAX</li>
+        <li>Processeur : Intel Core i5 - 2,5 GHz</li>
+        <li>Mémoire vive : 16 Go RGB (max 128 Go)</li>
+        <li>Carte graphique : NVIDIA GeForce RTX 4060 - 8 Go VRAM</li>
+        <li>Stockage : SSD 1 To</li>
+        <li>Résolution max : 7680 x 4320</li>
+        <li>Système d'exploitation : Windows 11</li>
+        <li>Connectivité : Wi-Fi, Ethernet</li>
+        <li>Ports : HDMI x4, USB 2.0 x2, USB 3.0 x4</li>
+        <li>Dimensions : 46.9 x 28.5 x 40 cm</li>
+        <li>Divers : Watercooling intégré</li>
+      </ul>
+      <a href="https://amzn.to/4jHdzjN" class="button" target="_blank" rel="nofollow sponsored">🔗 Voir sur Amazon</a>
+    </div>
+  </div>
+
+  <div class="pc-card">
+    <div class="pc-image">
+      <img src="sdfsd.jpg" alt="PC 5">
+    </div>
+    <div class="pc-details">
+      <h2 class="pc-title">🖥️ PC 5 – STGsivir i5-9400F | RX 580 | 16Go RAM | SSD 1To | RGB | WiFi</h2>
+      <p class="price">💶 Prix : 408,25 €</p>
+      <ul class="specs">
+        <li>Marque : STGsivir</li>
+        <li>Processeur : Intel Core i5-9400F - 3,5 GHz (6 cœurs)</li>
+        <li>Mémoire vive : 16 Go DDR4</li>
+        <li>Carte graphique : AMD Radeon RX 580 - 8 Go GDDR5</li>
+        <li>Stockage : SSD 1 To (eSATA)</li>
+        <li>Résolution max : 4096 x 2160 (estimée)</li>
+        <li>Système d'exploitation : Windows</li>
+        <li>Connectivité : Bluetooth, Wi-Fi, USB</li>
+        <li>Ports : HDMI x1, USB 2.0 x4, DisplayPort</li>
+        <li>Dimensions : 37.8 x 19 x 45 cm</li>
+      </ul>
+      <a href="https://amzn.to/4mSTn17" class="button" target="_blank" rel="nofollow sponsored">🔗 Voir sur Amazon</a>
+    </div>
+  </div>
+
+  <p>🔎 Tous les prix sont sujets à variation sur Amazon. Pense à consulter les stocks régulièrement.</p>
+</body>
+</html>
